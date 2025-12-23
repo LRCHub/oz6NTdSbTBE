@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "幻影",
+  "base_artist": "はるまきごはん",
+  "createdAt": "2025-12-23T15:10:08.448423Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "幻影",
+      "artist": "Eir Aoi",
+      "has_synced": true,
+      "path": "select/01_幻影_Eir_Aoi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "幻影",
+      "artist": "藍井エイル",
+      "has_synced": true,
+      "path": "select/02_幻影_藍井エイル.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "幻影/ 霧之戀",
+      "artist": "張國榮 feat. 譚詠麟",
+      "has_synced": false,
+      "path": "select/03_幻影__霧之戀_張國榮_feat._譚詠麟.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "幻影/ 霧之戀",
+      "artist": "張國榮",
+      "has_synced": false,
+      "path": "select/04_幻影__霧之戀_張國榮.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "幻影",
+      "artist": "譚詠麟",
+      "has_synced": true,
+      "path": "select/05_幻影_譚詠麟.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Phantom 환영 (幻影)",
+      "artist": "TVXQ!",
+      "has_synced": false,
+      "path": "select/06_Phantom_환영_(幻影)_TVXQ!.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "幻影",
+      "artist": "譚詠麟",
+      "has_synced": true,
+      "path": "select/07_幻影_譚詠麟.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "幻影 (マーヤー)",
+      "artist": "林原めぐみ",
+      "has_synced": false,
+      "path": "select/08_幻影_(マーヤー)_林原めぐみ.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "幻影",
+      "artist": "林原めぐみ",
+      "has_synced": false,
+      "path": "select/09_幻影_林原めぐみ.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "幻影 (マーヤー)",
+      "artist": "Hayashibara, Megumi",
+      "has_synced": false,
+      "path": "select/10_幻影_(マーヤー)_Hayashibara,_Megumi.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "幻影",
+      "artist": "Hayashibara, Megumi",
+      "has_synced": false,
+      "path": "select/11_幻影_Hayashibara,_Megumi.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "幻影 (マーヤー)",
+      "artist": "林原めぐみ",
+      "has_synced": true,
+      "path": "select/12_幻影_(マーヤー)_林原めぐみ.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "幻影",
+      "artist": "林原めぐみ",
+      "has_synced": true,
+      "path": "select/13_幻影_林原めぐみ.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "幻影 (マーヤー)",
+      "artist": "Hayashibara, Megumi",
+      "has_synced": true,
+      "path": "select/14_幻影_(マーヤー)_Hayashibara,_Megumi.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "幻影",
+      "artist": "Hayashibara, Megumi",
+      "has_synced": true,
+      "path": "select/15_幻影_Hayashibara,_Megumi.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "幻影+霧之戀",
+      "artist": "Alan Tam",
+      "has_synced": false,
+      "path": "select/16_幻影+霧之戀_Alan_Tam.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "幻影",
+      "artist": "楊采妮",
+      "has_synced": false,
+      "path": "select/17_幻影_楊采妮.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "幻影",
+      "artist": "夏韶聲",
+      "has_synced": false,
+      "path": "select/18_幻影_夏韶聲.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Phantom 환영(幻影)",
+      "artist": "東方神起",
+      "has_synced": false,
+      "path": "select/19_Phantom_환영(幻影)_東方神起.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "幻影",
+      "artist": "夏韶声",
+      "has_synced": false,
+      "path": "select/20_幻影_夏韶声.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "幻影",
+      "artist": "はるまきごはん",
+      "has_synced": false,
+      "path": "select/pl_01_幻影_はるまきごはん.txt"
+    }
+  ]
+}
